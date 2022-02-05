@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darwishdev
 - 👀 I’m interested in 
-    # bacend:
+    # backend:
       - go
     #frontend
       - vuejs
