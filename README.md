@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @darwishdev
 - 👀 I’m interested in 
-    bacend:
+    #bacend:
       - go
-    frontend
+    #frontend
       - vuejs
-    db
+    #db
       - mongo
       - SQLServer
       - PostgreSQL
       - MySQL
       
-    devops
+    #devops
       - docker
       - docker-compose
       - terraform
@@ -18,7 +18,7 @@
       - gcp
       - ci/cd
       
-    genral
+    #genral
       - linux
       - shell
       - automation
